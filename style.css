@@ -1,7 +1,16 @@
+th,td{
+    border: 1px solid;
+}
 .black{
     background-color: black;
 }
 a{
-    size: 16px;
     color: rgb(197, 175, 51);
+}
+.box{
+    letter-spacing: 10px;
+    size: 16px;
+}
+section{
+    background-color: rgb(197, 175, 51);;
 }
